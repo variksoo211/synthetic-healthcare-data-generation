@@ -5,7 +5,7 @@
 | # | Paper | Status |
 |---|-------|--------|
 |1|Modeling Tabular Data using Conditional GAN|✅ Completed|
-|2|Synthetic Data Generation Review|⬜|
+|2|Synthetic Data Generation Review|✅Completed|
 |3|Gaussian Copula|⬜|
 |4|TVAE|⬜|
 |5|Healthcare CTGAN|⬜|
